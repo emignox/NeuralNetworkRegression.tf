@@ -72,7 +72,7 @@ print(f'MAE: {mae_1}, MSE: {mse_1}')
 
 we sow a lot till now and we will see more soon! 
 
-## this last part is dedicated to the saving our perfect model and load this thig very very simple!
+## this last part is dedicated to the saving our perfect model and load and this is  very very simple!
 
 
 
